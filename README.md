@@ -10,7 +10,7 @@ A responsive Student Management System built using HTML, CSS, and JavaScript.
 - Local Storage Support
 
 ## Technologies Used
-- HTML5
+- HTML
 - CSS
 - JavaScript
 
