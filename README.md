@@ -11,7 +11,7 @@ A responsive Student Management System built using HTML, CSS, and JavaScript.
 
 ## Technologies Used
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## Author
